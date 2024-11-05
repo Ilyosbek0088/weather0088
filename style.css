@@ -18,7 +18,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('images/snow.jpg') no-repeat center center;
+    background: url('snow.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -33,7 +33,7 @@ section {
     background-color: transparent;
     box-shadow: 0px 0px 40px 1px black;
     border-radius: 10px;
-    background: url('./images/blur-just.jpg') no-repeat center center;
+    background: url('blur-just.jpg') no-repeat center center;
     background-size: cover;
     gap: 40px;
 }
